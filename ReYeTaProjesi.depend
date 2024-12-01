@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1733076583 source:c:\users\user\desktop\reyetap\reyetaprojesi\main.c
+	<stdio.h>
+	"restoran.h"
+	"musteri.h"
+
+1733076615 c:\users\user\desktop\reyetap\reyetaprojesi\restoran.h
+
+1733076605 c:\users\user\desktop\reyetap\reyetaprojesi\musteri.h
+
+1733076591 source:c:\users\user\desktop\reyetap\reyetaprojesi\musteri.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"musteri.h"
+
+1733076598 source:c:\users\user\desktop\reyetap\reyetaprojesi\restoran.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"restoran.h"
+
